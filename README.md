@@ -1,10 +1,11 @@
-## Data Wrangling Course Project - Rutgers University, New Brunswick - Spring 2025
+# Data Wrangling Course Project - Rutgers University, New Brunswick - Spring 2025
+
+## TITLE: Impact of Earthquakes on Semiconductor Supply Chain Resilience for Server Manufacturing in Taiwan
 ### Team Members:
 - Raghav Bajaj
 - Mithil Kadam
 - Raunak Nair
 
-## TITLE: Impact of Earthquakes on Semiconductor Supply Chain Resilience for Server Manufacturing in Taiwan
 ### WHY?
 - Taiwan is critical to the global semiconductor supply chain (TSMC, UMC, ASE, etc.).
 - Taiwan sits right on a dangerous seismic zone — the Philippine Sea Plate and Eurasian Plate boundary.
