@@ -20,3 +20,14 @@
 - No one else — Intel, Samsung — is yet shipping true 2nm products.
   + Intel plans to launch Intel 20A (their 2nm equivalent) but... they've been struggling with execution and delays.
   + Samsung says 2nm is coming in 2025-2026, but their 3nm was bumpy already.
+
+### Dataset
+- Earthquake Data: USGS API
+- Scraper: Bing News
+
+### Modules used:
+- BeautifulSoup
+- Spacy
+- nltk
+- Requests
+- Pandas
