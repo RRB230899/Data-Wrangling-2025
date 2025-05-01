@@ -2,10 +2,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # === Load Data ===
-stock_df = pd.read_csv("tsmc_quarterly_stock_prices.csv")
-ner_df = pd.read_excel("NER_Filtered.xlsx")
-quake_df = pd.read_csv("taiwan_earthquake_data_2020_to_2025.csv")
-grouped_df = pd.read_csv("grouped_data.csv")
+stock_df = pd.read_csv("./CSV Files/tsmc_quarterly_stock_prices.csv")
+ner_df = pd.read_excel("./CSV Files/NER_Filtered.xlsx")
+quake_df = pd.read_csv("./CSV Files/taiwan_earthquake_data_2020_to_2025.csv")
+grouped_df = pd.read_csv("./CSV Files/grouped_data.csv")
 
 # === Preprocess NER Data ===
 ner_df["combined_entities"] = (
