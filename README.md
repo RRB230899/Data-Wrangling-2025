@@ -6,7 +6,7 @@
 - Raunak Nair
 
 ## TITLE: Impact of Earthquakes on Semiconductor Supply Chain Resilience for Server Manufacturing in Taiwan
-g
+
 ### WHY?
 - Taiwan is critical to the global semiconductor supply chain (TSMC, UMC, ASE, etc.).
 - Taiwan sits right on a dangerous seismic zone — the Philippine Sea Plate and Eurasian Plate boundary.
@@ -25,10 +25,14 @@ g
 ### Dataset
 - Earthquake Data: USGS API
 - Scraper: Bing News
+- Q & A: Lamini.AI
+- Stock Prices: Yahoo Finance
 
 ### Modules used:
 - BeautifulSoup
 - Spacy
-- nltk
 - Requests
 - Pandas
+- Yfinance
+- Ast
+- Collections
