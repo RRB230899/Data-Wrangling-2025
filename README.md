@@ -4,6 +4,7 @@
 - Raghav Bajaj
 - Mithil Kadam
 - Raunak Nair
+- Ansh Datir
 
 ## TITLE: Impact of Earthquakes on Semiconductor Supply Chain Resilience for Server Manufacturing in Taiwan
 
